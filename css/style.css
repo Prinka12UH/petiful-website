@@ -1,12 +1,6 @@
-/* Під'єднання шрифту */
-@font-face {
-  font-family: "Graphik LCG";
-  src: url(fonts\Graphik LCG);
-}
-
 /* Шрифт */
 * {
-  font-family: "Graphik LCG";
+  font-family: 'Inter', sans-serif;
 }
 
 *,
